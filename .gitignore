@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+__pycache__/
+*.pyc
+.venv/
+.env
+generate_pdfs.py
